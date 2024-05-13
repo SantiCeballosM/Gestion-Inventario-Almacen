@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Gestion-Inventario-Almacen.iml" filepath="$PROJECT_DIR$/Gestion-Inventario-Almacen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gestion-Inventario-Almacen.iml" filepath="$PROJECT_DIR$/.idea/Gestion-Inventario-Almacen.iml" />
     </modules>
   </component>
 </project>

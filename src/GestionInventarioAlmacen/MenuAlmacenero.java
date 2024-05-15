@@ -1,5 +1,4 @@
 package src.GestionInventarioAlmacen;
 
-public class MenuGerente {
-
+public class MenuAlmacenero {
 }
